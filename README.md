@@ -1,0 +1,1 @@
+Applications for steganography via images. The user enters a text message and selects an image in which this message will be written. Afterwards, the program will create a new image with a hidden message and keys for decrypting the message.
